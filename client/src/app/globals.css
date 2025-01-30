@@ -72,7 +72,7 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
+    --background: rgb(34,34,34);
     --foreground: #ededed;
   }
 }
@@ -80,7 +80,6 @@
 * {
     font-family: 'sf-apple', sans-serif;
     font-weight: normal;
-    font-style: italic;
 }
 
 body {
